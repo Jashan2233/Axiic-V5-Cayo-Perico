@@ -25,5 +25,4 @@ if you need SSH, contact me on Discord Axiic#3699
 git clone https://github.com/Jashan2233/Axiic-V5-Cayo-Perico.git
 
 ```
-
 4. Start the Server
